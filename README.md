@@ -9,8 +9,8 @@ Estoy comprometido con la adquisición constante de nuevas habilidades y conocim
 
 Mi viaje de aprendizaje está lleno de curiosidad y entusiasmo, y estoy emocionado por las oportunidades y experiencias que me esperan en el camino para convertirme en un programador competente. Aprecio la belleza de la programación y su capacidad para transformar ideas en realidad, y estoy ansioso por aplicar mis habilidades y conocimientos para hacer contribuciones significativas en el mundo de la tecnología.</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidborja731&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<img src="https://myreadme.vercel.app/api/embed/davidborja731?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidborja73&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://myreadme.vercel.app/api/embed/davidborja73?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <!--
 **DavidBorja73/DavidBorja73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
