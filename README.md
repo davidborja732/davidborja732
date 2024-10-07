@@ -9,8 +9,8 @@ Estoy comprometido con la adquisición constante de nuevas habilidades y conocim
 
 Mi viaje de aprendizaje está lleno de curiosidad y entusiasmo, y estoy emocionado por las oportunidades y experiencias que me esperan en el camino para convertirme en un programador competente. Aprecio la belleza de la programación y su capacidad para transformar ideas en realidad, y estoy ansioso por aplicar mis habilidades y conocimientos para hacer contribuciones significativas en el mundo de la tecnología.</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidborja732&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidborja732&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidborja732&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidborja732&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/></p>
 
 
 <!--
