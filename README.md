@@ -1,6 +1,6 @@
 <h1 align="center">Bienvenido a mi GITHUB 👋</h1>
 <p align="center" style="font-size:30;">
-<img src="https://media.tenor.com/Pz3fTiQp2A8AAAAM/f1-formula1.gif" alt="Descripción de la imagen" width="200" align="right">
+<img src="https://media.tenor.com/Pz3fTiQp2A8AAAAM/f1-formula1.gif" alt="Fernando alonso" width="200" align="right">
 <p></p>Hola, soy David y esta es mi página de inicio personal en GitHub. Aquí encontrarás información sobre mí, mis proyectos y mis intereses.</p>
 
 Actualmente, estoy inmerso en el fascinante viaje de convertirme en un programador. Cada día, me sumerjo en el vasto océano de la codificación, aprendiendo y explorando nuevos conceptos, lenguajes de programación y tecnologías. Mi pasión por la programación se alimenta de la emoción de resolver problemas complejos y la satisfacción de construir soluciones elegantes y eficientes.
